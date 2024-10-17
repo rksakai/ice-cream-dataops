@@ -1,5 +1,5 @@
 name: icap_extractor
-sourceId: {{ icap_extractor_source_id }}
+sourceId: {{ icapi_extractors_source_id }}
 capabilities:  
   - assetsAcl:
       actions: [READ, WRITE]
